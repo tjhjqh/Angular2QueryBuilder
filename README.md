@@ -1,4 +1,8 @@
-# Angular2QueryBuilder
+# Angular 2 Query Builder
+
+This is a sample HTML / JavaScript application that demonstrates how to use Angular 2 to create a dynamic query building web UI.
+
+This was inspired by: https://github.com/mfauveau/angular-query-builder#angular-query-builder
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
